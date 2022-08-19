@@ -1,5 +1,7 @@
+#!/usr/bin/python3
 f = open('day_1.txt','r')
 line = f.readline();
+
 x = [line]
 while line:
     line = f.readline()
